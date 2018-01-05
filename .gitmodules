@@ -1,0 +1,3 @@
+[submodule "testingGitModulesChild"]
+	path = testingGitModulesChild
+	url = git@github.com:zerobatu/testingGitModulesChild.git
